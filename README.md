@@ -23,10 +23,12 @@ A multi-channel retail company faces several challenges:
 4. Which marketing strategies deliver the best ROI? 
 5. What are the key performance indicators we should track?
 ## Tools and Technologies
-1.Python(Pandas,Numpy,Scipy,Scikit-learn, Matplotlib,Seaborn,Plotly)
-2.PowerBI(Dashboard)
-3.Jupyter Notebook
-4.Github(Version control)
+<ul>
+  <li>Python(Pandas,Numpy,Scipy,Scikit-learn, Matplotlib,Seaborn,Plotly</li>
+  <li>PowerBI(Dashboard)</li>
+  <li>Jupyter Notebook</li>
+  <li>Github(Version control)</li>
+</ul>
 ## Exploratory Data Analysis
 1. Electronics is the top category, generating 30.4% of total revenue
 
