@@ -29,7 +29,9 @@ A multi-channel retail company faces several challenges:
   <li>Jupyter Notebook</li>
   <li>Github(Version control)</li>
 </ul>
+
 ## Exploratory Data Analysis
+<ul>
 1. Electronics is the top category, generating 30.4% of total revenue
 
 2. Customer retention rate is 96.3% (1,912 of 1,986 customers)
@@ -37,6 +39,8 @@ A multi-channel retail company faces several challenges:
 3. Q1 is the peak quarter, accounting for 34.2% of annual sales
 
 4. Weekend sales are 0.9% higher than weekday sales
+</ul>
+
 
 5. Top 20% of products generate 27.3% of revenue (Pareto principle confirmed)
 ## Key Findings and Recommendations
