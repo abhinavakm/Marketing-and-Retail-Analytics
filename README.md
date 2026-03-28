@@ -24,11 +24,8 @@ A multi-channel retail company faces several challenges:
 5. What are the key performance indicators we should track?
 ## Tools and Technologies
 Python(Pandas,Numpy,Scipy,Scikit-learn, Matplotlib,Seaborn,Plotly)
-
 PowerBI(Dashboard)
-
 Jupyter Notebook
-
 Github(Version control)
 ## Exploratory Data Analysis
 1. Electronics is the top category, generating 30.4% of total revenue
@@ -47,9 +44,9 @@ POSITIVE TRENDS:
   3. Average order value is $107.87
 
 AREAS FOR IMPROVEMENT:
-  ⚠ Customer retention rate at 89.1% (Target: 45-50%)
-  ⚠ Churn rate of 10.9% requires attention
-  ⚠ 74 customers made only one purchase
+  1. Customer retention rate at 89.1% (Target: 45-50%)
+  2. Churn rate of 10.9% requires attention
+  3. 74 customers made only one purchase
 
 OPPORTUNITIES:
   • Focus on At Risk segment for retention
@@ -86,3 +83,10 @@ LONG-TERM STRATEGY (6-12 Months):
 • Churn reduction: 20-25%
 
 ## Dashboard
+<img width="1958" height="1100" alt="image" src="https://github.com/user-attachments/assets/cf9017a7-c9a6-44bb-8073-76e9298a89ee" />
+<img width="1964" height="1102" alt="image" src="https://github.com/user-attachments/assets/b3848bce-44de-42ce-bfcd-6230e99caa8b" />
+<img width="1952" height="1064" alt="image" src="https://github.com/user-attachments/assets/24103c44-9d62-4f0c-ad80-e2297b732d2b" />
+<img width="1922" height="1088" alt="image" src="https://github.com/user-attachments/assets/0f1dbbe2-dc71-4add-9bc1-5f62f0fa1b5e" />
+
+
+
