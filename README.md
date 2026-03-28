@@ -32,17 +32,13 @@ A multi-channel retail company faces several challenges:
 
 ## Exploratory Data Analysis
 <ul>
-1. Electronics is the top category, generating 30.4% of total revenue
-
-2. Customer retention rate is 96.3% (1,912 of 1,986 customers)
-
-3. Q1 is the peak quarter, accounting for 34.2% of annual sales
-
-4. Weekend sales are 0.9% higher than weekday sales
+   <li>Electronics is the top category, generating 30.4% of total revenu</li>
+  <li>Customer retention rate is 96.3% (1,912 of 1,986 customers)</li>
+  <li>Q1 is the peak quarter, accounting for 34.2% of annual sales</li>
+  <li>Weekend sales are 0.9% higher than weekday sales</li>
+  <li>Top 20% of products generate 27.3% of revenue (Pareto principle confirmed)</li>
 </ul>
 
-
-5. Top 20% of products generate 27.3% of revenue (Pareto principle confirmed)
 ## Key Findings and Recommendations
 POSITIVE TRENDS:
   1. Customer Lifetime Value is 150.4x the acquisition cost (Healthy: >3.0)
