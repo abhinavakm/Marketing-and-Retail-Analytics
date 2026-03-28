@@ -42,9 +42,9 @@ Github(Version control)
 5. Top 20% of products generate 27.3% of revenue (Pareto principle confirmed)
 ## Key Findings and Recommendations
 POSITIVE TRENDS:
-  ✓ Customer Lifetime Value is 150.4x the acquisition cost (Healthy: >3.0)
-  ✓ 96.3% of customers make repeat purchases
-  ✓ Average order value is $107.87
+  1. Customer Lifetime Value is 150.4x the acquisition cost (Healthy: >3.0)
+  2. 96.3% of customers make repeat purchases
+  3. Average order value is $107.87
 
 AREAS FOR IMPROVEMENT:
   ⚠ Customer retention rate at 89.1% (Target: 45-50%)
